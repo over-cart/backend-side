@@ -1,3 +1,5 @@
+#python version 2.7.9
+
 import RPi.GPIO as GPIO
 import MFRC522, signal, datetime
 import socket, fcntl, struct, platform
